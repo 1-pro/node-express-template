@@ -1,2 +1,2 @@
-# lexclass
-Lex Hub Training Class
+# node-express-template
+Node template
